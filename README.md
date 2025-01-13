@@ -8,19 +8,19 @@
  🔭 **I’m currently working on**:
   - Building a foundation in Data Science with DSA, Competitive Programming, SQL, and backend projects.
 
-- 👯‍♀️ **I’m looking to collaborate on**:
+ 👯‍♀️ **I’m looking to collaborate on**:
   - Data Science projects using Python, SQL, and data visualization.
 
-- 🤝 **I’m looking for help with**:
+ 🤝 **I’m looking for help with**:
   - Gaining practical experience with real-world datasets and advanced data science techniques.
 
-- 🌱 **I’m currently learning**:
+ 🌱 **I’m currently learning**:
   - Data Science concepts, including Pandas, NumPy, TensorFlow, and web scraping.
 
-- 💬 **Ask me about**:
+ 💬 **Ask me about**:
   - Python Django, SQL, and Competitive Programming on LeetCode and CodeForces.
 
-- ⚡ **Fun fact**:
+ ⚡ **Fun fact**:
   - Passionate about finding patterns in data and turning them into actionable insights!
 
 ---
