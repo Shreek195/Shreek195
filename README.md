@@ -6,7 +6,7 @@
 # ✨ About Me:
 
  🔭 **I’m currently working on**:
-   Building a foundation in Data Science with DSA, Competitive Programming, SQL, and backend projects.
+  - Building a foundation in Data Science with DSA, Competitive Programming, SQL, and backend projects.
 
 - 👯‍♀️ **I’m looking to collaborate on**:
   - Data Science projects using Python, SQL, and data visualization.
