@@ -1,9 +1,35 @@
-<div align='center'><h3>👋 Hi, I'm <b>Shree Koshti</b>, Passionate about <b>Artificial Intelligence, Machine Learning, and Deep Learning</b>.</h3> </div> <br><br>
-##
-💻 I have hands-on experience with Python, Django, and data-driven projects.  <br>🚀 Currently, I’m working on projects in **AI and Data Science** to sharpen my skills.  <br>🌱 I enjoy solving real-world problems through technology and continuously learning advanced concepts in **DSA, ML, and AI deployment**.  <br>
+<div align="center">
+  
+# 👋 Hi, I'm <b>Shree Koshti</b>  
+✨ Passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Deep Learning</b> ✨  
+
+</div>
+
+---
+
+💻 **About Me**  
+- 🐍 Hands-on experience with **Python**, **Django**, and data-driven projects  
+- 🚀 Currently building projects in **AI & Data Science** to sharpen my skills  
+- 🌱 Enthusiastic about **real-world problem solving** through technology  
+- 📚 Continuously learning advanced concepts in **DSA, ML, and AI Deployment**  
+
+---
+
+
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/scr3am_sk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/shree-koshti) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/14557305) 
+<p align="center">
+  <a href="https://instagram.com/scr3am_sk">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/shree-koshti">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/14557305">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/>
+  </a>
+</p>
+
 
 # 💻 Tech Stack:
 <p align="center">
